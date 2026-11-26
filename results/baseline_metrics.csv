@@ -1,2 +1,3 @@
 model,n,pearson_vs_pseudo,spearman_vs_pseudo,mae_vs_pseudo,rmse_vs_pseudo,reference_labels
 Character n-gram TF-IDF cosine,110,0.37642115194503456,0.43812134240164113,3.0510281986576864,4.088233091698579,automatic_pseudo_labels_not_human_verified
+Multilingual Sentence Transformer cosine,110,0.6804574552371492,0.7225954905535691,3.569852300123735,4.365324785214238,automatic_pseudo_labels_not_human_verified
