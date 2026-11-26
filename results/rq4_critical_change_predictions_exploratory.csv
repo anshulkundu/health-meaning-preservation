@@ -1,0 +1,501 @@
+pair_id,language,original_text,comparison_text,critical_change_annotation,validation_status,annotation_method,heuristic_detected_types
+C001,English,Wash your hands with soap and clean running water before preparing food.,Clean your hands with soap and running water before making food.,,pending_human_validation,provisional_assisted,None detected
+C002,English,Wash your hands with soap and clean running water before preparing food.,Wash your hands with water only before making food.,Quantity / required component,pending_human_validation,provisional_assisted,None detected
+C003,English,Do not share prescription medicines with other people.,Share your prescription medicine with other people.,Negation,pending_human_validation,provisional_assisted,Negation; Actor
+C004,English,Keep medicines out of the reach of children.,Store medicines where children can easily reach them.,Safety warning / actor,pending_human_validation,provisional_assisted,None detected
+C005,English,Follow the instructions on the medicine label or those provided by your healthcare professional.,Use the medicine according to its label or your healthcare professional's instructions.,,pending_human_validation,provisional_assisted,None detected
+C006,English,"If symptoms become severe or worsen, seek medical advice promptly.",Get medical advice promptly if symptoms become severe or get worse.,Severity / urgency,pending_human_validation,provisional_assisted,None detected
+C007,English,Antibiotics do not treat viral infections such as the common cold.,Antibiotics treat viral infections such as the common cold.,Negation,pending_human_validation,provisional_assisted,Negation
+C008,English,Check the expiry date before using a medicine.,Check the expiration date before using medication.,,pending_human_validation,provisional_assisted,None detected
+C009,English,Do not stop a prescribed medicine without first consulting your healthcare professional.,Stop your prescribed medicine without consulting your healthcare professional.,Negation,pending_human_validation,provisional_assisted,None detected
+C010,English,Store medicines according to the storage instructions on their packaging.,Keep medicines following the storage directions on their package.,,pending_human_validation,provisional_assisted,None detected
+C011,English,"If you have trouble breathing, seek emergency medical help.","If breathing becomes difficult, get emergency medical help.",,pending_human_validation,provisional_assisted,Actor
+C012,English,A balanced diet includes a variety of foods from different food groups.,A balanced diet contains different kinds of foods from several food groups.,,pending_human_validation,provisional_assisted,None detected
+C013,English,Regular physical activity can support overall health.,Doing physical activity regularly can help support general health.,,pending_human_validation,provisional_assisted,None detected
+C014,English,Cover your mouth and nose when coughing or sneezing.,Cover your nose and mouth when you cough or sneeze.,,pending_human_validation,provisional_assisted,None detected
+C015,English,Avoid close contact with people who are sick when possible.,"When possible, keep some distance from people who are ill.",,pending_human_validation,provisional_assisted,Warnings / severity
+C016,English,"Drink water regularly, especially during hot weather or physical activity.","Drink water often, particularly in hot weather or when exercising.",,pending_human_validation,provisional_assisted,None detected
+C017,English,Seek professional advice if a wound shows signs of infection.,Ask a healthcare professional for advice if a wound appears infected.,,pending_human_validation,provisional_assisted,Actor
+C018,English,Do not use a medicine after its expiry date.,Use a medicine after its expiry date.,Negation,pending_human_validation,provisional_assisted,Negation
+C019,English,Read the patient information leaflet before using a new medicine.,Read the information leaflet for patients before using a new medicine.,,pending_human_validation,provisional_assisted,None detected
+C020,English,Only take medicines that have been prescribed or recommended for you by a qualified professional.,Take medicines prescribed or recommended for you by a qualified professional only.,,pending_human_validation,provisional_assisted,None detected
+C021,Hindi,खाना बनाने से पहले साबुन और साफ बहते पानी से हाथ धोएँ।,भोजन बनाने से पहले साबुन और बहते साफ पानी से अपने हाथ धो लें।,,pending_human_validation,provisional_assisted,None detected
+C022,Hindi,खाना बनाने से पहले साबुन और साफ बहते पानी से हाथ धोएँ।,भोजन बनाने से पहले केवल पानी से हाथ धो लें।,Quantity / required component,pending_human_validation,provisional_assisted,None detected
+C023,Hindi,अपनी डॉक्टर द्वारा लिखी गई दवाएँ दूसरों के साथ साझा न करें।,अपनी डॉक्टर द्वारा लिखी गई दवाएँ दूसरों के साथ साझा करें।,Negation,pending_human_validation,provisional_assisted,None detected
+C024,Hindi,दवाइयों को बच्चों की पहुँच से दूर रखें।,दवाइयों को ऐसी जगह रखें जहाँ बच्चे आसानी से पहुँच सकें।,Safety warning / actor,pending_human_validation,provisional_assisted,Negation
+C025,Hindi,दवा के लेबल या स्वास्थ्यकर्मी द्वारा दिए गए निर्देशों का पालन करें।,दवा का उपयोग उसके लेबल या स्वास्थ्यकर्मी के निर्देशों के अनुसार करें।,,pending_human_validation,provisional_assisted,None detected
+C026,Hindi,"यदि लक्षण गंभीर हो जाएँ या बढ़ने लगें, तो जल्द चिकित्सा सलाह लें।",लक्षण गंभीर होने या बढ़ने पर जल्द स्वास्थ्यकर्मी से सलाह लें।,Severity / urgency,pending_human_validation,provisional_assisted,None detected
+C027,Hindi,एंटीबायोटिक दवाएँ सामान्य सर्दी-जुकाम जैसे वायरल संक्रमणों का इलाज नहीं करतीं।,एंटीबायोटिक दवाएँ सामान्य सर्दी-जुकाम जैसे वायरल संक्रमणों का इलाज करती हैं।,Negation,pending_human_validation,provisional_assisted,None detected
+C028,Hindi,दवा इस्तेमाल करने से पहले उसकी समाप्ति तिथि जाँचें।,दवा का उपयोग करने से पहले उसकी एक्सपायरी डेट देखें।,,pending_human_validation,provisional_assisted,None detected
+C029,Hindi,स्वास्थ्यकर्मी से सलाह लिए बिना निर्धारित दवा बंद न करें।,स्वास्थ्यकर्मी से सलाह लिए बिना निर्धारित दवा बंद कर दें।,Negation,pending_human_validation,provisional_assisted,None detected
+C030,Hindi,दवाइयों को पैकेट पर दिए गए भंडारण निर्देशों के अनुसार रखें।,दवाइयों को उनके पैकेट पर लिखे रखने के निर्देशों के अनुसार रखें।,,pending_human_validation,provisional_assisted,None detected
+C031,Hindi,साँस लेने में परेशानी होने पर तुरंत आपातकालीन चिकित्सा सहायता लें।,"यदि साँस लेने में कठिनाई हो, तो तुरंत आपातकालीन चिकित्सा सहायता लें।",,pending_human_validation,provisional_assisted,None detected
+C032,Hindi,संतुलित आहार में अलग-अलग खाद्य समूहों के कई प्रकार के खाद्य पदार्थ शामिल होते हैं।,संतुलित भोजन में कई खाद्य समूहों के विभिन्न प्रकार के खाद्य पदार्थ होते हैं।,,pending_human_validation,provisional_assisted,Negation; Timing / frequency
+C033,Hindi,नियमित शारीरिक गतिविधि समग्र स्वास्थ्य को बेहतर बनाए रखने में मदद कर सकती है।,नियमित रूप से सक्रिय रहने से सामान्य स्वास्थ्य को सहारा मिल सकता है।,,pending_human_validation,provisional_assisted,None detected
+C034,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,खाँसने या छींकने पर अपनी नाक और मुँह ढक लें।,,pending_human_validation,provisional_assisted,None detected
+C035,Hindi,संभव हो तो बीमार लोगों के बहुत करीब रहने से बचें।,"जहाँ संभव हो, बीमार लोगों से कुछ दूरी बनाए रखें।",,pending_human_validation,provisional_assisted,Warnings / severity
+C036,Hindi,गर्म मौसम या शारीरिक गतिविधि के दौरान नियमित रूप से पानी पिएँ।,गर्मी में या व्यायाम करते समय बार-बार पानी पिएँ।,,pending_human_validation,provisional_assisted,None detected
+C037,Hindi,"यदि घाव में संक्रमण के संकेत दिखें, तो स्वास्थ्यकर्मी से सलाह लें।",घाव संक्रमित दिखे तो किसी स्वास्थ्यकर्मी से सलाह माँगें।,,pending_human_validation,provisional_assisted,None detected
+C038,Hindi,दवा की समाप्ति तिथि निकल जाने के बाद उसका उपयोग न करें।,दवा की समाप्ति तिथि निकल जाने के बाद उसका उपयोग करें।,Negation,pending_human_validation,provisional_assisted,None detected
+C039,Hindi,नई दवा इस्तेमाल करने से पहले रोगी सूचना-पत्र पढ़ें।,नई दवा लेने से पहले मरीजों के लिए दी गई जानकारी पढ़ें।,,pending_human_validation,provisional_assisted,Actor
+C040,Hindi,केवल वही दवाएँ लें जो आपके लिए योग्य स्वास्थ्यकर्मी ने लिखी या सुझाई हों।,योग्य स्वास्थ्यकर्मी द्वारा आपके लिए लिखी या सुझाई गई दवाएँ ही लें।,,pending_human_validation,provisional_assisted,Negation
+NEW0001,English,Wash your hands with soap and water before preparing food.,"Before preparing food, wash your hands using soap and water.",,pending_human_validation,provisional_assisted,None detected
+NEW0002,English,Wash your hands with soap and water before preparing food.,Wash your hands with water before preparing food.,Quantity / required component,pending_human_validation,provisional_assisted,None detected
+NEW0003,English,Wash your hands with soap and water before preparing food.,Do not wash your hands before preparing food.,Negation,pending_human_validation,provisional_assisted,Negation
+NEW0004,English,Wash your hands with soap and water before preparing food.,Wash your hands with soap and water after preparing food.,,pending_human_validation,provisional_assisted,None detected
+NEW0005,English,Wash your hands with soap and water before preparing food.,Use soap and water to wash your hands before making food.,,pending_human_validation,provisional_assisted,None detected
+NEW0006,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,भोजन तैयार करने से पहले साबुन और पानी से अपने हाथ धो लें।,,pending_human_validation,provisional_assisted,None detected
+NEW0007,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,खाना बनाने से पहले केवल पानी से हाथ धोएँ।,Quantity / required component,pending_human_validation,provisional_assisted,None detected
+NEW0008,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,खाना बनाने से पहले हाथ न धोएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+NEW0009,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,खाना बनाने के बाद साबुन और पानी से हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+NEW0010,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,भोजन बनाने से पहले साबुन और पानी से हाथ साफ करें।,,pending_human_validation,provisional_assisted,None detected
+NEW0011,English,Antibiotics generally do not work against viral infections.,Antibiotics generally do not work for infections caused by viruses.,,pending_human_validation,provisional_assisted,None detected
+NEW0012,English,Antibiotics generally do not work against viral infections.,Antibiotics always work against viral infections.,Negation / treatment claim,pending_human_validation,provisional_assisted,Negation
+NEW0013,English,Antibiotics generally do not work against viral infections.,Antibiotics generally work against viral infections.,Negation / treatment claim,pending_human_validation,provisional_assisted,Negation
+NEW0014,English,Antibiotics generally do not work against viral infections.,Antibiotics are not generally effective against viruses.,,pending_human_validation,provisional_assisted,None detected
+NEW0015,English,Antibiotics generally do not work against viral infections.,Viral infections should always be treated with antibiotics.,Negation / treatment claim,pending_human_validation,provisional_assisted,Negation
+NEW0016,Hindi,एंटीबायोटिक दवाएँ आमतौर पर वायरल संक्रमणों पर असर नहीं करतीं।,एंटीबायोटिक दवाएँ आमतौर पर वायरस से होने वाले संक्रमणों पर असर नहीं करतीं।,,pending_human_validation,provisional_assisted,None detected
+NEW0017,Hindi,एंटीबायोटिक दवाएँ आमतौर पर वायरल संक्रमणों पर असर नहीं करतीं।,एंटीबायोटिक दवाएँ हमेशा वायरल संक्रमणों पर असर करती हैं।,Negation / treatment claim,pending_human_validation,provisional_assisted,Negation
+NEW0018,Hindi,एंटीबायोटिक दवाएँ आमतौर पर वायरल संक्रमणों पर असर नहीं करतीं।,एंटीबायोटिक दवाएँ आमतौर पर वायरल संक्रमणों पर असर करती हैं।,Negation / treatment claim,pending_human_validation,provisional_assisted,None detected
+NEW0019,Hindi,एंटीबायोटिक दवाएँ आमतौर पर वायरल संक्रमणों पर असर नहीं करतीं।,एंटीबायोटिक दवाएँ वायरस के खिलाफ आमतौर पर प्रभावी नहीं होतीं।,,pending_human_validation,provisional_assisted,None detected
+NEW0020,Hindi,एंटीबायोटिक दवाएँ आमतौर पर वायरल संक्रमणों पर असर नहीं करतीं।,वायरल संक्रमणों का इलाज हमेशा एंटीबायोटिक दवाओं से करना चाहिए।,Negation / treatment claim,pending_human_validation,provisional_assisted,None detected
+NEW0021,English,Regular physical activity can benefit overall health.,Being physically active regularly can support general health.,,pending_human_validation,provisional_assisted,None detected
+NEW0022,English,Regular physical activity can benefit overall health.,Regular physical activity has no health benefits.,Negation,pending_human_validation,provisional_assisted,Negation
+NEW0023,English,Regular physical activity can benefit overall health.,Physical activity is beneficial only when done once a month.,Frequency,pending_human_validation,provisional_assisted,Timing / frequency
+NEW0024,English,Regular physical activity can benefit overall health.,Regular physical activity can support health and well-being.,,pending_human_validation,provisional_assisted,None detected
+NEW0025,English,Regular physical activity can benefit overall health.,Avoid all physical activity to maintain good health.,Negation,pending_human_validation,provisional_assisted,Warnings / severity
+NEW0026,Hindi,नियमित शारीरिक गतिविधि समग्र स्वास्थ्य के लिए लाभकारी हो सकती है।,नियमित रूप से शारीरिक रूप से सक्रिय रहना सामान्य स्वास्थ्य के लिए लाभकारी हो सकता है।,,pending_human_validation,provisional_assisted,None detected
+NEW0027,Hindi,नियमित शारीरिक गतिविधि समग्र स्वास्थ्य के लिए लाभकारी हो सकती है।,नियमित शारीरिक गतिविधि से स्वास्थ्य को कोई लाभ नहीं होता।,Negation,pending_human_validation,provisional_assisted,None detected
+NEW0028,Hindi,नियमित शारीरिक गतिविधि समग्र स्वास्थ्य के लिए लाभकारी हो सकती है।,शारीरिक गतिविधि केवल महीने में एक बार करने पर लाभकारी होती है।,Frequency,pending_human_validation,provisional_assisted,Timing / frequency
+NEW0029,Hindi,नियमित शारीरिक गतिविधि समग्र स्वास्थ्य के लिए लाभकारी हो सकती है।,नियमित शारीरिक गतिविधि स्वास्थ्य और कल्याण में मदद कर सकती है।,,pending_human_validation,provisional_assisted,None detected
+NEW0030,Hindi,नियमित शारीरिक गतिविधि समग्र स्वास्थ्य के लिए लाभकारी हो सकती है।,अच्छे स्वास्थ्य के लिए सभी शारीरिक गतिविधियों से बचें।,Negation,pending_human_validation,provisional_assisted,Negation; Warnings / severity
+NEW0031,English,Do not share your prescribed medicines with other people.,Never share medicines prescribed for you with other people.,,pending_human_validation,provisional_assisted,Actor
+NEW0032,English,Do not share your prescribed medicines with other people.,Share your prescribed medicines with other people.,Negation / safety instruction,pending_human_validation,provisional_assisted,Negation
+NEW0033,English,Do not share your prescribed medicines with other people.,You should share prescribed medicines whenever someone asks.,Negation / safety instruction,pending_human_validation,provisional_assisted,Actor
+NEW0034,English,Do not share your prescribed medicines with other people.,Avoid sharing your prescribed medicines with others.,,pending_human_validation,provisional_assisted,Negation; Warnings / severity
+NEW0035,English,Do not share your prescribed medicines with other people.,Give your prescription medicines to anyone who needs them.,Negation / safety instruction,pending_human_validation,provisional_assisted,Negation
+NEW0036,Hindi,अपने लिए निर्धारित दवाएँ दूसरों के साथ साझा न करें।,अपने लिए लिखी गई दवाएँ किसी दूसरे व्यक्ति को न दें।,,pending_human_validation,provisional_assisted,None detected
+NEW0037,Hindi,अपने लिए निर्धारित दवाएँ दूसरों के साथ साझा न करें।,अपने लिए निर्धारित दवाएँ दूसरों के साथ साझा करें।,Negation / safety instruction,pending_human_validation,provisional_assisted,None detected
+NEW0038,Hindi,अपने लिए निर्धारित दवाएँ दूसरों के साथ साझा न करें।,माँगने पर अपनी निर्धारित दवाएँ दूसरों को दे दें।,Negation / safety instruction,pending_human_validation,provisional_assisted,None detected
+NEW0039,Hindi,अपने लिए निर्धारित दवाएँ दूसरों के साथ साझा न करें।,अपनी निर्धारित दवाएँ दूसरों के साथ साझा करने से बचें।,,pending_human_validation,provisional_assisted,Warnings / severity
+NEW0040,Hindi,अपने लिए निर्धारित दवाएँ दूसरों के साथ साझा न करें।,अपनी पर्चे वाली दवाएँ जरूरतमंद किसी भी व्यक्ति को दे दें।,Negation / safety instruction,pending_human_validation,provisional_assisted,None detected
+NEW0041,English,A balanced and healthy diet supports good health.,"Eating a healthy, balanced diet can support overall health.",,pending_human_validation,provisional_assisted,None detected
+NEW0042,English,A balanced and healthy diet supports good health.,A balanced diet has no role in maintaining health.,Negation,pending_human_validation,provisional_assisted,Negation
+NEW0043,English,A balanced and healthy diet supports good health.,Only one type of food is needed for a healthy diet.,Frequency,pending_human_validation,provisional_assisted,None detected
+NEW0044,English,A balanced and healthy diet supports good health.,A healthy balanced diet can contribute to well-being.,,pending_human_validation,provisional_assisted,None detected
+NEW0045,English,A balanced and healthy diet supports good health.,Avoid eating a variety of foods to stay healthy.,Negation,pending_human_validation,provisional_assisted,Warnings / severity
+NEW0046,Hindi,संतुलित और स्वस्थ आहार अच्छे स्वास्थ्य में मदद करता है।,स्वस्थ और संतुलित आहार समग्र स्वास्थ्य को बेहतर बनाए रखने में मदद कर सकता है।,,pending_human_validation,provisional_assisted,Negation
+NEW0047,Hindi,संतुलित और स्वस्थ आहार अच्छे स्वास्थ्य में मदद करता है।,स्वास्थ्य बनाए रखने में संतुलित आहार की कोई भूमिका नहीं है।,Negation,pending_human_validation,provisional_assisted,Negation
+NEW0048,Hindi,संतुलित और स्वस्थ आहार अच्छे स्वास्थ्य में मदद करता है।,स्वस्थ आहार के लिए केवल एक प्रकार का भोजन पर्याप्त है।,Frequency,pending_human_validation,provisional_assisted,Negation
+NEW0049,Hindi,संतुलित और स्वस्थ आहार अच्छे स्वास्थ्य में मदद करता है।,स्वस्थ और संतुलित आहार कल्याण में योगदान दे सकता है।,,pending_human_validation,provisional_assisted,Negation
+NEW0050,Hindi,संतुलित और स्वस्थ आहार अच्छे स्वास्थ्य में मदद करता है।,स्वस्थ रहने के लिए विभिन्न प्रकार के खाद्य पदार्थ खाने से बचें।,Negation,pending_human_validation,provisional_assisted,Negation; Warnings / severity
+AUG0001,English,Wash your hands with soap and clean running water before preparing food.,Wash your hands with soap and clean running water prior to preparing food.,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0002,English,Check the expiry date before using a medicine.,Check the expiry date prior to using a medicine.,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0003,English,"Drink water regularly, especially during hot weather or physical activity.","Drink water on a regular basis, especially during hot weather or physical activity.",,pending_human_validation,provisional_assisted,None detected
+AUG0004,English,Do not use a medicine after its expiry date.,Do not use a medicine following its expiry date.,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0005,English,Read the patient information leaflet before using a new medicine.,Read the patient information leaflet prior to using a new medicine.,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0006,Hindi,खाना बनाने से पहले साबुन और साफ बहते पानी से हाथ धोएँ।,खाना बनाने से से पूर्व साबुन और साफ बहते पानी से हाथ धोएँ।,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0007,Hindi,दवा इस्तेमाल करने से पहले उसकी समाप्ति तिथि जाँचें।,दवा इस्तेमाल करने से से पूर्व उसकी समाप्ति तिथि जाँचें।,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0008,Hindi,गर्म मौसम या शारीरिक गतिविधि के दौरान नियमित रूप से पानी पिएँ।,गर्म मौसम या शारीरिक गतिविधि के दौरान लगातार पानी पिएँ।,,pending_human_validation,provisional_assisted,None detected
+AUG0009,Hindi,दवा की समाप्ति तिथि निकल जाने के बाद उसका उपयोग न करें।,दवा की समाप्ति तिथि निकल जाने के के पश्चात उसका उपयोग न करें।,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0010,Hindi,नई दवा इस्तेमाल करने से पहले रोगी सूचना-पत्र पढ़ें।,नई दवा इस्तेमाल करने से से पूर्व रोगी सूचना-पत्र पढ़ें।,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0011,English,Wash your hands with soap and water before preparing food.,Wash your hands with soap and water prior to preparing food.,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0012,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,खाना बनाने से से पूर्व साबुन और पानी से हाथ धोएँ।,,pending_human_validation,provisional_assisted,Timing / frequency
+AUG0013,English,Antibiotics generally do not work against viral infections.,Antibiotics usually do not work against viral infections.,,pending_human_validation,provisional_assisted,None detected
+AUG0014,Hindi,एंटीबायोटिक दवाएँ आमतौर पर वायरल संक्रमणों पर असर नहीं करतीं।,एंटीबायोटिक दवाएँ सामान्यतः वायरल संक्रमणों पर असर नहीं करतीं।,,pending_human_validation,provisional_assisted,None detected
+GEN0001,English,Wash your hands with soap and water before preparing food.,Wash your hands with soap and water before preparing food.,,pending_human_validation,provisional_assisted,None detected
+GEN0002,English,Wash your hands with soap and water before preparing food.,Do not wash your hands with soap and water before preparing food.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0003,English,Wash your hands with soap and water before preparing food.,It is not necessary to wash your hands with soap and water before preparing food.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0004,English,Wash your hands with soap and water before preparing food.,Guidance: Wash your hands with soap and water before preparing food.,,pending_human_validation,provisional_assisted,None detected
+GEN0005,English,Wash your hands with soap and water before preparing food.,Wash your hands with soap and water before preparing food. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0006,English,Wash your hands with soap and water before preparing food.,Remember that wash your hands with soap and water before preparing food.,,pending_human_validation,provisional_assisted,None detected
+GEN0007,English,Wash your hands with soap and water before preparing food.,The recommendation is to wash your hands with soap and water before preparing food.,,pending_human_validation,provisional_assisted,None detected
+GEN0008,English,Wash your hands with soap and water before preparing food.,Please remember to wash your hands with soap and water before preparing food.,,pending_human_validation,provisional_assisted,None detected
+GEN0009,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0010,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,यह सलाह न मानें: खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0011,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,खाना बनाने से बाद साबुन और पानी से हाथ धोएँ।,Timing,pending_human_validation,provisional_assisted,None detected
+GEN0012,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,यह आवश्यक नहीं है कि खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0013,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,कृपया याद रखें: खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0014,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,सलाह: खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0015,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0016,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,ध्यान रखें कि खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0017,Hindi,खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,सिफारिश यह है: खाना बनाने से पहले साबुन और पानी से हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0018,English,Wash your hands before eating.,Wash your hands before eating.,,pending_human_validation,provisional_assisted,None detected
+GEN0019,English,Wash your hands before eating.,Do not wash your hands before eating.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0020,English,Wash your hands before eating.,Wash your hands after eating.,Timing,pending_human_validation,provisional_assisted,None detected
+GEN0021,English,Wash your hands before eating.,It is not necessary to wash your hands before eating.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0022,English,Wash your hands before eating.,Guidance: Wash your hands before eating.,,pending_human_validation,provisional_assisted,None detected
+GEN0023,English,Wash your hands before eating.,Wash your hands before eating. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0024,English,Wash your hands before eating.,Remember that wash your hands before eating.,,pending_human_validation,provisional_assisted,None detected
+GEN0025,English,Wash your hands before eating.,The recommendation is to wash your hands before eating.,,pending_human_validation,provisional_assisted,None detected
+GEN0026,English,Wash your hands before eating.,Please remember to wash your hands before eating.,,pending_human_validation,provisional_assisted,None detected
+GEN0027,Hindi,खाना खाने से पहले हाथ धोएँ।,खाना खाने से पहले हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0028,Hindi,खाना खाने से पहले हाथ धोएँ।,यह सलाह न मानें: खाना खाने से पहले हाथ धोएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0029,Hindi,खाना खाने से पहले हाथ धोएँ।,खाना खाने से बाद हाथ धोएँ।,Timing,pending_human_validation,provisional_assisted,None detected
+GEN0030,Hindi,खाना खाने से पहले हाथ धोएँ।,यह आवश्यक नहीं है कि खाना खाने से पहले हाथ धोएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0031,Hindi,खाना खाने से पहले हाथ धोएँ।,कृपया याद रखें: खाना खाने से पहले हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0032,Hindi,खाना खाने से पहले हाथ धोएँ।,सलाह: खाना खाने से पहले हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0033,Hindi,खाना खाने से पहले हाथ धोएँ।,खाना खाने से पहले हाथ धोएँ। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0034,Hindi,खाना खाने से पहले हाथ धोएँ।,ध्यान रखें कि खाना खाने से पहले हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0035,Hindi,खाना खाने से पहले हाथ धोएँ।,सिफारिश यह है: खाना खाने से पहले हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0036,English,Wash your hands after using the toilet.,Wash your hands after using the toilet.,,pending_human_validation,provisional_assisted,None detected
+GEN0037,English,Wash your hands after using the toilet.,Do not wash your hands after using the toilet.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0038,English,Wash your hands after using the toilet.,Wash your hands before using the toilet.,Timing,pending_human_validation,provisional_assisted,None detected
+GEN0039,English,Wash your hands after using the toilet.,It is not necessary to wash your hands after using the toilet.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0040,English,Wash your hands after using the toilet.,Guidance: Wash your hands after using the toilet.,,pending_human_validation,provisional_assisted,None detected
+GEN0041,English,Wash your hands after using the toilet.,Wash your hands after using the toilet. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0042,English,Wash your hands after using the toilet.,Remember that wash your hands after using the toilet.,,pending_human_validation,provisional_assisted,None detected
+GEN0043,English,Wash your hands after using the toilet.,The recommendation is to wash your hands after using the toilet.,,pending_human_validation,provisional_assisted,None detected
+GEN0044,English,Wash your hands after using the toilet.,Please remember to wash your hands after using the toilet.,,pending_human_validation,provisional_assisted,None detected
+GEN0045,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,शौचालय का उपयोग करने के बाद हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0046,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,यह सलाह न मानें: शौचालय का उपयोग करने के बाद हाथ धोएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0047,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,शौचालय का उपयोग करने के पहले हाथ धोएँ।,Timing,pending_human_validation,provisional_assisted,None detected
+GEN0048,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,यह आवश्यक नहीं है कि शौचालय का उपयोग करने के बाद हाथ धोएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0049,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,कृपया याद रखें: शौचालय का उपयोग करने के बाद हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0050,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,सलाह: शौचालय का उपयोग करने के बाद हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0051,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,शौचालय का उपयोग करने के बाद हाथ धोएँ। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0052,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,ध्यान रखें कि शौचालय का उपयोग करने के बाद हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0053,Hindi,शौचालय का उपयोग करने के बाद हाथ धोएँ।,सिफारिश यह है: शौचालय का उपयोग करने के बाद हाथ धोएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0054,English,Scrub your hands with soap for at least 20 seconds.,Scrub your hands with soap for at least 20 seconds.,,pending_human_validation,provisional_assisted,None detected
+GEN0055,English,Scrub your hands with soap for at least 20 seconds.,Do not scrub your hands with soap for at least 20 seconds.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0056,English,Scrub your hands with soap for at least 20 seconds.,Scrub your hands with soap for for 5 seconds.,Quantity / dosage,pending_human_validation,provisional_assisted,None detected
+GEN0057,English,Scrub your hands with soap for at least 20 seconds.,It is not necessary to scrub your hands with soap for at least 20 seconds.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0058,English,Scrub your hands with soap for at least 20 seconds.,Guidance: Scrub your hands with soap for at least 20 seconds.,,pending_human_validation,provisional_assisted,None detected
+GEN0059,English,Scrub your hands with soap for at least 20 seconds.,Scrub your hands with soap for at least 20 seconds. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0060,English,Scrub your hands with soap for at least 20 seconds.,Remember that scrub your hands with soap for at least 20 seconds.,,pending_human_validation,provisional_assisted,None detected
+GEN0061,English,Scrub your hands with soap for at least 20 seconds.,The recommendation is to scrub your hands with soap for at least 20 seconds.,,pending_human_validation,provisional_assisted,None detected
+GEN0062,English,Scrub your hands with soap for at least 20 seconds.,Please remember to scrub your hands with soap for at least 20 seconds.,,pending_human_validation,provisional_assisted,None detected
+GEN0063,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,,pending_human_validation,provisional_assisted,None detected
+GEN0064,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,यह सलाह न मानें: अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0065,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,अपने हाथों को साबुन से 5 सेकंड तक रगड़ें।,Quantity / dosage,pending_human_validation,provisional_assisted,None detected
+GEN0066,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,यह आवश्यक नहीं है कि अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0067,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,कृपया याद रखें: अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,,pending_human_validation,provisional_assisted,None detected
+GEN0068,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,सलाह: अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,,pending_human_validation,provisional_assisted,None detected
+GEN0069,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0070,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,ध्यान रखें कि अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,,pending_human_validation,provisional_assisted,None detected
+GEN0071,Hindi,अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,सिफारिश यह है: अपने हाथों को साबुन से कम से कम 20 सेकंड तक रगड़ें।,,pending_human_validation,provisional_assisted,None detected
+GEN0072,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,,pending_human_validation,provisional_assisted,None detected
+GEN0073,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Do not use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0074,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Use hand sanitizer containing at least 20% alcohol when soap and water are unavailable.,Quantity / dosage,pending_human_validation,provisional_assisted,None detected
+GEN0075,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,It is not necessary to use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0076,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Guidance: Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,,pending_human_validation,provisional_assisted,None detected
+GEN0077,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0078,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Remember that use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,,pending_human_validation,provisional_assisted,None detected
+GEN0079,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,The recommendation is to use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,,pending_human_validation,provisional_assisted,None detected
+GEN0080,English,Use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,Please remember to use hand sanitizer containing at least 60% alcohol when soap and water are unavailable.,,pending_human_validation,provisional_assisted,None detected
+GEN0081,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।",,pending_human_validation,provisional_assisted,None detected
+GEN0082,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","यह सलाह न मानें: जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0083,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","जब साबुन और पानी उपलब्ध न हों, तो 20% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।",Quantity / dosage,pending_human_validation,provisional_assisted,None detected
+GEN0084,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","यह आवश्यक नहीं है कि जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0085,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","कृपया याद रखें: जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।",,pending_human_validation,provisional_assisted,None detected
+GEN0086,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","सलाह: जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।",,pending_human_validation,provisional_assisted,None detected
+GEN0087,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें। यह सामान्य स्वास्थ्य जानकारी है।",Context added,pending_human_validation,provisional_assisted,None detected
+GEN0088,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","ध्यान रखें कि जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।",,pending_human_validation,provisional_assisted,None detected
+GEN0089,Hindi,"जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।","सिफारिश यह है: जब साबुन और पानी उपलब्ध न हों, तो कम से कम 60% अल्कोहल वाला हैंड सैनिटाइज़र इस्तेमाल करें।",,pending_human_validation,provisional_assisted,None detected
+GEN0090,English,Antibiotics do not treat viral infections.,Antibiotics do not treat viral infections.,,pending_human_validation,provisional_assisted,None detected
+GEN0091,English,Antibiotics do not treat viral infections.,It is false that antibiotics do not treat viral infections.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0092,English,Antibiotics do not treat viral infections.,It is not necessary to antibiotics do not treat viral infections.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0093,English,Antibiotics do not treat viral infections.,Guidance: Antibiotics do not treat viral infections.,,pending_human_validation,provisional_assisted,None detected
+GEN0094,English,Antibiotics do not treat viral infections.,Antibiotics do not treat viral infections. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0095,English,Antibiotics do not treat viral infections.,Remember that antibiotics do not treat viral infections.,,pending_human_validation,provisional_assisted,None detected
+GEN0096,English,Antibiotics do not treat viral infections.,The recommendation is to antibiotics do not treat viral infections.,,pending_human_validation,provisional_assisted,None detected
+GEN0097,English,Antibiotics do not treat viral infections.,Please remember to antibiotics do not treat viral infections.,,pending_human_validation,provisional_assisted,None detected
+GEN0098,Hindi,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,,pending_human_validation,provisional_assisted,None detected
+GEN0099,Hindi,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,यह सलाह न मानें: एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0100,Hindi,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,यह आवश्यक नहीं है कि एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0101,Hindi,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,कृपया याद रखें: एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,,pending_human_validation,provisional_assisted,None detected
+GEN0102,Hindi,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,सलाह: एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,,pending_human_validation,provisional_assisted,None detected
+GEN0103,Hindi,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0104,Hindi,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,ध्यान रखें कि एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,,pending_human_validation,provisional_assisted,None detected
+GEN0105,Hindi,एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,सिफारिश यह है: एंटीबायोटिक दवाएँ वायरल संक्रमणों का इलाज नहीं करतीं।,,pending_human_validation,provisional_assisted,None detected
+GEN0106,English,Take antibiotics exactly as prescribed by your healthcare professional.,Take antibiotics exactly as prescribed by your healthcare professional.,,pending_human_validation,provisional_assisted,None detected
+GEN0107,English,Take antibiotics exactly as prescribed by your healthcare professional.,Do not take antibiotics exactly as prescribed by your healthcare professional.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0108,English,Take antibiotics exactly as prescribed by your healthcare professional.,It is not necessary to take antibiotics exactly as prescribed by your healthcare professional.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0109,English,Take antibiotics exactly as prescribed by your healthcare professional.,Guidance: Take antibiotics exactly as prescribed by your healthcare professional.,,pending_human_validation,provisional_assisted,None detected
+GEN0110,English,Take antibiotics exactly as prescribed by your healthcare professional.,Take antibiotics exactly as prescribed by your healthcare professional. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0111,English,Take antibiotics exactly as prescribed by your healthcare professional.,Remember that take antibiotics exactly as prescribed by your healthcare professional.,,pending_human_validation,provisional_assisted,None detected
+GEN0112,English,Take antibiotics exactly as prescribed by your healthcare professional.,The recommendation is to take antibiotics exactly as prescribed by your healthcare professional.,,pending_human_validation,provisional_assisted,None detected
+GEN0113,English,Take antibiotics exactly as prescribed by your healthcare professional.,Please remember to take antibiotics exactly as prescribed by your healthcare professional.,,pending_human_validation,provisional_assisted,None detected
+GEN0114,English,Take antibiotics exactly as prescribed by your healthcare professional.,Take antibiotics exactly as prescribed by your friend.,Actor,pending_human_validation,provisional_assisted,Actor
+GEN0115,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0116,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,यह सलाह न मानें: एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0117,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,यह आवश्यक नहीं है कि एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0118,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,कृपया याद रखें: एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0119,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,एंटीबायोटिक दवाएँ मित्र के निर्देशानुसार ही लें।,Actor,pending_human_validation,provisional_assisted,None detected
+GEN0120,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,सलाह: एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0121,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0122,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,ध्यान रखें कि एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0123,Hindi,एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,सिफारिश यह है: एंटीबायोटिक दवाएँ स्वास्थ्य पेशेवर के निर्देशानुसार ही लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0124,English,Do not share your antibiotics with other people.,Do not share your antibiotics with other people.,,pending_human_validation,provisional_assisted,None detected
+GEN0125,English,Do not share your antibiotics with other people.,It is false that do not share your antibiotics with other people.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0126,English,Do not share your antibiotics with other people.,It is not necessary to do not share your antibiotics with other people.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0127,English,Do not share your antibiotics with other people.,Do share your antibiotics with other people.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0128,English,Do not share your antibiotics with other people.,Guidance: Do not share your antibiotics with other people.,,pending_human_validation,provisional_assisted,None detected
+GEN0129,English,Do not share your antibiotics with other people.,Do not share your antibiotics with other people. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0130,English,Do not share your antibiotics with other people.,Remember that do not share your antibiotics with other people.,,pending_human_validation,provisional_assisted,None detected
+GEN0131,English,Do not share your antibiotics with other people.,The recommendation is to do not share your antibiotics with other people.,,pending_human_validation,provisional_assisted,None detected
+GEN0132,English,Do not share your antibiotics with other people.,Please remember to do not share your antibiotics with other people.,,pending_human_validation,provisional_assisted,None detected
+GEN0133,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0134,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,यह सलाह न मानें: अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0135,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,यह आवश्यक नहीं है कि अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0136,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा करें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0137,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,कृपया याद रखें: अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0138,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,सलाह: अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0139,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0140,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,ध्यान रखें कि अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0141,Hindi,अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,सिफारिश यह है: अपनी एंटीबायोटिक दवाएँ दूसरों के साथ साझा न करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0142,English,Do not save leftover antibiotics for a future illness.,Do not save leftover antibiotics for a future illness.,,pending_human_validation,provisional_assisted,None detected
+GEN0143,English,Do not save leftover antibiotics for a future illness.,It is false that do not save leftover antibiotics for a future illness.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0144,English,Do not save leftover antibiotics for a future illness.,It is not necessary to do not save leftover antibiotics for a future illness.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0145,English,Do not save leftover antibiotics for a future illness.,Do save leftover antibiotics for a future illness.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0146,English,Do not save leftover antibiotics for a future illness.,Guidance: Do not save leftover antibiotics for a future illness.,,pending_human_validation,provisional_assisted,None detected
+GEN0147,English,Do not save leftover antibiotics for a future illness.,Do not save leftover antibiotics for a future illness. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0148,English,Do not save leftover antibiotics for a future illness.,Remember that do not save leftover antibiotics for a future illness.,,pending_human_validation,provisional_assisted,None detected
+GEN0149,English,Do not save leftover antibiotics for a future illness.,The recommendation is to do not save leftover antibiotics for a future illness.,,pending_human_validation,provisional_assisted,None detected
+GEN0150,English,Do not save leftover antibiotics for a future illness.,Please remember to do not save leftover antibiotics for a future illness.,,pending_human_validation,provisional_assisted,None detected
+GEN0151,Hindi,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,,pending_human_validation,provisional_assisted,None detected
+GEN0152,Hindi,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,यह सलाह न मानें: बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0153,Hindi,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,यह आवश्यक नहीं है कि बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0154,Hindi,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,कृपया याद रखें: बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,,pending_human_validation,provisional_assisted,None detected
+GEN0155,Hindi,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,सलाह: बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,,pending_human_validation,provisional_assisted,None detected
+GEN0156,Hindi,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0157,Hindi,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,ध्यान रखें कि बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,,pending_human_validation,provisional_assisted,None detected
+GEN0158,Hindi,बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,सिफारिश यह है: बची हुई एंटीबायोटिक दवाएँ भविष्य में होने वाली बीमारी के लिए बचाकर न रखें।,,pending_human_validation,provisional_assisted,None detected
+GEN0159,English,Ask a healthcare professional if you have questions about antibiotic treatment.,Ask a healthcare professional if you have questions about antibiotic treatment.,,pending_human_validation,provisional_assisted,None detected
+GEN0160,English,Ask a healthcare professional if you have questions about antibiotic treatment.,Do not ask a healthcare professional if you have questions about antibiotic treatment.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0161,English,Ask a healthcare professional if you have questions about antibiotic treatment.,It is not necessary to ask a healthcare professional if you have questions about antibiotic treatment.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0162,English,Ask a healthcare professional if you have questions about antibiotic treatment.,Guidance: Ask a healthcare professional if you have questions about antibiotic treatment.,,pending_human_validation,provisional_assisted,None detected
+GEN0163,English,Ask a healthcare professional if you have questions about antibiotic treatment.,Ask a healthcare professional if you have questions about antibiotic treatment. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0164,English,Ask a healthcare professional if you have questions about antibiotic treatment.,Remember that ask a healthcare professional if you have questions about antibiotic treatment.,,pending_human_validation,provisional_assisted,None detected
+GEN0165,English,Ask a healthcare professional if you have questions about antibiotic treatment.,The recommendation is to ask a healthcare professional if you have questions about antibiotic treatment.,,pending_human_validation,provisional_assisted,None detected
+GEN0166,English,Ask a healthcare professional if you have questions about antibiotic treatment.,Please remember to ask a healthcare professional if you have questions about antibiotic treatment.,,pending_human_validation,provisional_assisted,None detected
+GEN0167,English,Ask a healthcare professional if you have questions about antibiotic treatment.,Ask a friend if you have questions about antibiotic treatment.,Actor,pending_human_validation,provisional_assisted,Actor
+GEN0168,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।",,pending_human_validation,provisional_assisted,None detected
+GEN0169,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","यह सलाह न मानें: एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0170,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","यह आवश्यक नहीं है कि एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0171,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","कृपया याद रखें: एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।",,pending_human_validation,provisional_assisted,None detected
+GEN0172,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो मित्र से पूछें।",Actor,pending_human_validation,provisional_assisted,None detected
+GEN0173,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","सलाह: एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।",,pending_human_validation,provisional_assisted,None detected
+GEN0174,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें। यह सामान्य स्वास्थ्य जानकारी है।",Context added,pending_human_validation,provisional_assisted,None detected
+GEN0175,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","ध्यान रखें कि एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।",,pending_human_validation,provisional_assisted,None detected
+GEN0176,Hindi,"एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।","सिफारिश यह है: एंटीबायोटिक उपचार के बारे में प्रश्न हों, तो स्वास्थ्य पेशेवर से पूछें।",,pending_human_validation,provisional_assisted,None detected
+GEN0177,English,Eat a balanced and healthy diet.,Eat a balanced and healthy diet.,,pending_human_validation,provisional_assisted,None detected
+GEN0178,English,Eat a balanced and healthy diet.,Do not eat a balanced and healthy diet.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0179,English,Eat a balanced and healthy diet.,It is not necessary to eat a balanced and healthy diet.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0180,English,Eat a balanced and healthy diet.,Guidance: Eat a balanced and healthy diet.,,pending_human_validation,provisional_assisted,None detected
+GEN0181,English,Eat a balanced and healthy diet.,Eat a balanced and healthy diet. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0182,English,Eat a balanced and healthy diet.,Remember that eat a balanced and healthy diet.,,pending_human_validation,provisional_assisted,None detected
+GEN0183,English,Eat a balanced and healthy diet.,The recommendation is to eat a balanced and healthy diet.,,pending_human_validation,provisional_assisted,None detected
+GEN0184,English,Eat a balanced and healthy diet.,Please remember to eat a balanced and healthy diet.,,pending_human_validation,provisional_assisted,None detected
+GEN0185,Hindi,संतुलित और स्वस्थ आहार लें।,संतुलित और स्वस्थ आहार लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0186,Hindi,संतुलित और स्वस्थ आहार लें।,यह सलाह न मानें: संतुलित और स्वस्थ आहार लें।,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0187,Hindi,संतुलित और स्वस्थ आहार लें।,यह आवश्यक नहीं है कि संतुलित और स्वस्थ आहार लें।,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0188,Hindi,संतुलित और स्वस्थ आहार लें।,कृपया याद रखें: संतुलित और स्वस्थ आहार लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0189,Hindi,संतुलित और स्वस्थ आहार लें।,सलाह: संतुलित और स्वस्थ आहार लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0190,Hindi,संतुलित और स्वस्थ आहार लें।,संतुलित और स्वस्थ आहार लें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,Negation
+GEN0191,Hindi,संतुलित और स्वस्थ आहार लें।,ध्यान रखें कि संतुलित और स्वस्थ आहार लें।,,pending_human_validation,provisional_assisted,Negation
+GEN0192,Hindi,संतुलित और स्वस्थ आहार लें।,सिफारिश यह है: संतुलित और स्वस्थ आहार लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0193,English,Regular exercise can support overall health.,Regular exercise can support overall health.,,pending_human_validation,provisional_assisted,None detected
+GEN0194,English,Regular exercise can support overall health.,It is false that regular exercise can support overall health.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0195,English,Regular exercise can support overall health.,It is not necessary to regular exercise can support overall health.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0196,English,Regular exercise can support overall health.,Regular exercise cannot support overall health.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0197,English,Regular exercise can support overall health.,Guidance: Regular exercise can support overall health.,,pending_human_validation,provisional_assisted,None detected
+GEN0198,English,Regular exercise can support overall health.,Regular exercise can support overall health. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0199,English,Regular exercise can support overall health.,Remember that regular exercise can support overall health.,,pending_human_validation,provisional_assisted,None detected
+GEN0200,English,Regular exercise can support overall health.,The recommendation is to regular exercise can support overall health.,,pending_human_validation,provisional_assisted,None detected
+GEN0201,English,Regular exercise can support overall health.,Please remember to regular exercise can support overall health.,,pending_human_validation,provisional_assisted,None detected
+GEN0202,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,,pending_human_validation,provisional_assisted,None detected
+GEN0203,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,यह सलाह न मानें: नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0204,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,कभी-कभार व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,Frequency,pending_human_validation,provisional_assisted,Negation
+GEN0205,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,यह आवश्यक नहीं है कि नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0206,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,नियमित व्यायाम समग्र स्वास्थ्य में मदद नहीं कर सकता है।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0207,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,कृपया याद रखें: नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,,pending_human_validation,provisional_assisted,None detected
+GEN0208,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,सलाह: नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,,pending_human_validation,provisional_assisted,None detected
+GEN0209,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0210,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,ध्यान रखें कि नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,,pending_human_validation,provisional_assisted,None detected
+GEN0211,Hindi,नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,सिफारिश यह है: नियमित व्यायाम समग्र स्वास्थ्य में मदद कर सकता है।,,pending_human_validation,provisional_assisted,None detected
+GEN0212,English,Use medicines as recommended by your healthcare provider.,Use medicines as recommended by your healthcare provider.,,pending_human_validation,provisional_assisted,None detected
+GEN0213,English,Use medicines as recommended by your healthcare provider.,Do not use medicines as recommended by your healthcare provider.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0214,English,Use medicines as recommended by your healthcare provider.,It is not necessary to use medicines as recommended by your healthcare provider.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0215,English,Use medicines as recommended by your healthcare provider.,Guidance: Use medicines as recommended by your healthcare provider.,,pending_human_validation,provisional_assisted,None detected
+GEN0216,English,Use medicines as recommended by your healthcare provider.,Use medicines as recommended by your healthcare provider. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0217,English,Use medicines as recommended by your healthcare provider.,Remember that use medicines as recommended by your healthcare provider.,,pending_human_validation,provisional_assisted,None detected
+GEN0218,English,Use medicines as recommended by your healthcare provider.,The recommendation is to use medicines as recommended by your healthcare provider.,,pending_human_validation,provisional_assisted,None detected
+GEN0219,English,Use medicines as recommended by your healthcare provider.,Please remember to use medicines as recommended by your healthcare provider.,,pending_human_validation,provisional_assisted,None detected
+GEN0220,Hindi,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0221,Hindi,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,यह सलाह न मानें: दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0222,Hindi,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,यह आवश्यक नहीं है कि दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0223,Hindi,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,कृपया याद रखें: दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0224,Hindi,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,सलाह: दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0225,Hindi,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0226,Hindi,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,ध्यान रखें कि दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0227,Hindi,दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,सिफारिश यह है: दवाओं का उपयोग स्वास्थ्य सेवा प्रदाता की सलाह के अनुसार करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0228,English,Avoid smoking to protect your health.,Avoid smoking to protect your health.,,pending_human_validation,provisional_assisted,None detected
+GEN0229,English,Avoid smoking to protect your health.,Do not avoid smoking to protect your health.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0230,English,Avoid smoking to protect your health.,It is not necessary to avoid smoking to protect your health.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0231,English,Avoid smoking to protect your health.,Guidance: Avoid smoking to protect your health.,,pending_human_validation,provisional_assisted,None detected
+GEN0232,English,Avoid smoking to protect your health.,Avoid smoking to protect your health. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0233,English,Avoid smoking to protect your health.,Remember that avoid smoking to protect your health.,,pending_human_validation,provisional_assisted,None detected
+GEN0234,English,Avoid smoking to protect your health.,The recommendation is to avoid smoking to protect your health.,,pending_human_validation,provisional_assisted,None detected
+GEN0235,English,Avoid smoking to protect your health.,Please remember to avoid smoking to protect your health.,,pending_human_validation,provisional_assisted,None detected
+GEN0236,Hindi,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,,pending_human_validation,provisional_assisted,None detected
+GEN0237,Hindi,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,यह सलाह न मानें: अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0238,Hindi,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,यह आवश्यक नहीं है कि अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0239,Hindi,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,कृपया याद रखें: अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,,pending_human_validation,provisional_assisted,None detected
+GEN0240,Hindi,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,सलाह: अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,,pending_human_validation,provisional_assisted,None detected
+GEN0241,Hindi,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0242,Hindi,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,ध्यान रखें कि अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,,pending_human_validation,provisional_assisted,None detected
+GEN0243,Hindi,अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,सिफारिश यह है: अपने स्वास्थ्य की रक्षा के लिए धूम्रपान से बचें।,,pending_human_validation,provisional_assisted,None detected
+GEN0244,English,Get enough sleep each night.,Get enough sleep each night.,,pending_human_validation,provisional_assisted,None detected
+GEN0245,English,Get enough sleep each night.,Do not get enough sleep each night.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0246,English,Get enough sleep each night.,It is not necessary to get enough sleep each night.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0247,English,Get enough sleep each night.,Guidance: Get enough sleep each night.,,pending_human_validation,provisional_assisted,None detected
+GEN0248,English,Get enough sleep each night.,Get enough sleep each night. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0249,English,Get enough sleep each night.,Remember that get enough sleep each night.,,pending_human_validation,provisional_assisted,None detected
+GEN0250,English,Get enough sleep each night.,The recommendation is to get enough sleep each night.,,pending_human_validation,provisional_assisted,None detected
+GEN0251,English,Get enough sleep each night.,Please remember to get enough sleep each night.,,pending_human_validation,provisional_assisted,None detected
+GEN0252,Hindi,हर रात पर्याप्त नींद लें।,हर रात पर्याप्त नींद लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0253,Hindi,हर रात पर्याप्त नींद लें।,यह सलाह न मानें: हर रात पर्याप्त नींद लें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0254,Hindi,हर रात पर्याप्त नींद लें।,यह आवश्यक नहीं है कि हर रात पर्याप्त नींद लें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0255,Hindi,हर रात पर्याप्त नींद लें।,कृपया याद रखें: हर रात पर्याप्त नींद लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0256,Hindi,हर रात पर्याप्त नींद लें।,सलाह: हर रात पर्याप्त नींद लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0257,Hindi,हर रात पर्याप्त नींद लें।,हर रात पर्याप्त नींद लें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0258,Hindi,हर रात पर्याप्त नींद लें।,ध्यान रखें कि हर रात पर्याप्त नींद लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0259,Hindi,हर रात पर्याप्त नींद लें।,सिफारिश यह है: हर रात पर्याप्त नींद लें।,,pending_human_validation,provisional_assisted,None detected
+GEN0260,English,Eat a variety of healthy foods.,Eat a variety of healthy foods.,,pending_human_validation,provisional_assisted,None detected
+GEN0261,English,Eat a variety of healthy foods.,Do not eat a variety of healthy foods.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0262,English,Eat a variety of healthy foods.,It is not necessary to eat a variety of healthy foods.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0263,English,Eat a variety of healthy foods.,Guidance: Eat a variety of healthy foods.,,pending_human_validation,provisional_assisted,None detected
+GEN0264,English,Eat a variety of healthy foods.,Eat a variety of healthy foods. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0265,English,Eat a variety of healthy foods.,Remember that eat a variety of healthy foods.,,pending_human_validation,provisional_assisted,None detected
+GEN0266,English,Eat a variety of healthy foods.,The recommendation is to eat a variety of healthy foods.,,pending_human_validation,provisional_assisted,None detected
+GEN0267,English,Eat a variety of healthy foods.,Please remember to eat a variety of healthy foods.,,pending_human_validation,provisional_assisted,None detected
+GEN0268,Hindi,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0269,Hindi,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,यह सलाह न मानें: विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0270,Hindi,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,यह आवश्यक नहीं है कि विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0271,Hindi,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,कृपया याद रखें: विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0272,Hindi,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,सलाह: विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0273,Hindi,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0274,Hindi,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,ध्यान रखें कि विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0275,Hindi,विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,सिफारिश यह है: विभिन्न प्रकार के स्वस्थ खाद्य पदार्थ खाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0276,English,Keep up to date with recommended vaccines.,Keep up to date with recommended vaccines.,,pending_human_validation,provisional_assisted,None detected
+GEN0277,English,Keep up to date with recommended vaccines.,Do not keep up to date with recommended vaccines.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0278,English,Keep up to date with recommended vaccines.,It is not necessary to keep up to date with recommended vaccines.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0279,English,Keep up to date with recommended vaccines.,Guidance: Keep up to date with recommended vaccines.,,pending_human_validation,provisional_assisted,None detected
+GEN0280,English,Keep up to date with recommended vaccines.,Keep up to date with recommended vaccines. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0281,English,Keep up to date with recommended vaccines.,Remember that keep up to date with recommended vaccines.,,pending_human_validation,provisional_assisted,None detected
+GEN0282,English,Keep up to date with recommended vaccines.,The recommendation is to keep up to date with recommended vaccines.,,pending_human_validation,provisional_assisted,None detected
+GEN0283,English,Keep up to date with recommended vaccines.,Please remember to keep up to date with recommended vaccines.,,pending_human_validation,provisional_assisted,None detected
+GEN0284,Hindi,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0285,Hindi,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,यह सलाह न मानें: अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0286,Hindi,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,यह आवश्यक नहीं है कि अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0287,Hindi,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,कृपया याद रखें: अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0288,Hindi,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,सलाह: अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0289,Hindi,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0290,Hindi,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,ध्यान रखें कि अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0291,Hindi,अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,सिफारिश यह है: अनुशंसित टीकों के बारे में अद्यतन रहें और समय पर टीकाकरण कराएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0292,English,Protect your skin from too much sun exposure.,Protect your skin from too much sun exposure.,,pending_human_validation,provisional_assisted,None detected
+GEN0293,English,Protect your skin from too much sun exposure.,Do not protect your skin from too much sun exposure.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0294,English,Protect your skin from too much sun exposure.,It is not necessary to protect your skin from too much sun exposure.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0295,English,Protect your skin from too much sun exposure.,Guidance: Protect your skin from too much sun exposure.,,pending_human_validation,provisional_assisted,None detected
+GEN0296,English,Protect your skin from too much sun exposure.,Protect your skin from too much sun exposure. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0297,English,Protect your skin from too much sun exposure.,Remember that protect your skin from too much sun exposure.,,pending_human_validation,provisional_assisted,None detected
+GEN0298,English,Protect your skin from too much sun exposure.,The recommendation is to protect your skin from too much sun exposure.,,pending_human_validation,provisional_assisted,None detected
+GEN0299,English,Protect your skin from too much sun exposure.,Please remember to protect your skin from too much sun exposure.,,pending_human_validation,provisional_assisted,None detected
+GEN0300,Hindi,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0301,Hindi,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,यह सलाह न मानें: त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0302,Hindi,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,यह आवश्यक नहीं है कि त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0303,Hindi,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,कृपया याद रखें: त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0304,Hindi,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,सलाह: त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0305,Hindi,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,Negation
+GEN0306,Hindi,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,ध्यान रखें कि त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,,pending_human_validation,provisional_assisted,Negation
+GEN0307,Hindi,त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,सिफारिश यह है: त्वचा को बहुत अधिक धूप के संपर्क से बचाएँ।,,pending_human_validation,provisional_assisted,None detected
+GEN0308,English,"Physical activity, even in small amounts, can be helpful.","Physical activity, even in small amounts, can be helpful.",,pending_human_validation,provisional_assisted,None detected
+GEN0309,English,"Physical activity, even in small amounts, can be helpful.","It is false that physical activity, even in small amounts, can be helpful.",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0310,English,"Physical activity, even in small amounts, can be helpful.","It is not necessary to physical activity, even in small amounts, can be helpful.",Negation,pending_human_validation,provisional_assisted,Negation
+GEN0311,English,"Physical activity, even in small amounts, can be helpful.","Physical activity, even in small amounts, cannot be helpful.",Negation,pending_human_validation,provisional_assisted,Negation
+GEN0312,English,"Physical activity, even in small amounts, can be helpful.","Guidance: Physical activity, even in small amounts, can be helpful.",,pending_human_validation,provisional_assisted,None detected
+GEN0313,English,"Physical activity, even in small amounts, can be helpful.","Physical activity, even in small amounts, can be helpful. This is general health information.",Context added,pending_human_validation,provisional_assisted,None detected
+GEN0314,English,"Physical activity, even in small amounts, can be helpful.","Remember that physical activity, even in small amounts, can be helpful.",,pending_human_validation,provisional_assisted,None detected
+GEN0315,English,"Physical activity, even in small amounts, can be helpful.","The recommendation is to physical activity, even in small amounts, can be helpful.",,pending_human_validation,provisional_assisted,None detected
+GEN0316,English,"Physical activity, even in small amounts, can be helpful.","Please remember to physical activity, even in small amounts, can be helpful.",,pending_human_validation,provisional_assisted,None detected
+GEN0317,Hindi,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,,pending_human_validation,provisional_assisted,None detected
+GEN0318,Hindi,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,यह सलाह न मानें: थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0319,Hindi,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,यह आवश्यक नहीं है कि थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0320,Hindi,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,कृपया याद रखें: थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,,pending_human_validation,provisional_assisted,None detected
+GEN0321,Hindi,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,सलाह: थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,,pending_human_validation,provisional_assisted,None detected
+GEN0322,Hindi,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,Negation
+GEN0323,Hindi,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,ध्यान रखें कि थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,,pending_human_validation,provisional_assisted,Negation
+GEN0324,Hindi,थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,सिफारिश यह है: थोड़ी मात्रा में शारीरिक गतिविधि भी लाभकारी हो सकती है।,,pending_human_validation,provisional_assisted,None detected
+GEN0325,English,Work on managing stress and supporting mental well-being.,Work on managing stress and supporting mental well-being.,,pending_human_validation,provisional_assisted,None detected
+GEN0326,English,Work on managing stress and supporting mental well-being.,Do not work on managing stress and supporting mental well-being.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0327,English,Work on managing stress and supporting mental well-being.,It is not necessary to work on managing stress and supporting mental well-being.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0328,English,Work on managing stress and supporting mental well-being.,Guidance: Work on managing stress and supporting mental well-being.,,pending_human_validation,provisional_assisted,None detected
+GEN0329,English,Work on managing stress and supporting mental well-being.,Work on managing stress and supporting mental well-being. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0330,English,Work on managing stress and supporting mental well-being.,Remember that work on managing stress and supporting mental well-being.,,pending_human_validation,provisional_assisted,None detected
+GEN0331,English,Work on managing stress and supporting mental well-being.,The recommendation is to work on managing stress and supporting mental well-being.,,pending_human_validation,provisional_assisted,None detected
+GEN0332,English,Work on managing stress and supporting mental well-being.,Please remember to work on managing stress and supporting mental well-being.,,pending_human_validation,provisional_assisted,None detected
+GEN0333,Hindi,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0334,Hindi,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,यह सलाह न मानें: तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0335,Hindi,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,यह आवश्यक नहीं है कि तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0336,Hindi,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,कृपया याद रखें: तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0337,Hindi,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,सलाह: तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0338,Hindi,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0339,Hindi,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,ध्यान रखें कि तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0340,Hindi,तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,सिफारिश यह है: तनाव को संभालने और मानसिक स्वास्थ्य को सहारा देने पर काम करें।,,pending_human_validation,provisional_assisted,None detected
+GEN0341,English,Cover your mouth and nose when coughing or sneezing.,Cover your mouth and nose when coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
+GEN0342,English,Cover your mouth and nose when coughing or sneezing.,Do not cover your mouth and nose when coughing or sneezing.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0343,English,Cover your mouth and nose when coughing or sneezing.,It is not necessary to cover your mouth and nose when coughing or sneezing.,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0344,English,Cover your mouth and nose when coughing or sneezing.,Guidance: Cover your mouth and nose when coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
+GEN0345,English,Cover your mouth and nose when coughing or sneezing.,Cover your mouth and nose when coughing or sneezing. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0346,English,Cover your mouth and nose when coughing or sneezing.,Remember that cover your mouth and nose when coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
+GEN0347,English,Cover your mouth and nose when coughing or sneezing.,The recommendation is to cover your mouth and nose when coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
+GEN0348,English,Cover your mouth and nose when coughing or sneezing.,Please remember to cover your mouth and nose when coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
+GEN0349,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,खाँसते या छींकते समय मुँह और नाक ढकें।,,pending_human_validation,provisional_assisted,None detected
+GEN0350,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,यह सलाह न मानें: खाँसते या छींकते समय मुँह और नाक ढकें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0351,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,यह आवश्यक नहीं है कि खाँसते या छींकते समय मुँह और नाक ढकें।,Negation,pending_human_validation,provisional_assisted,None detected
+GEN0352,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,कृपया याद रखें: खाँसते या छींकते समय मुँह और नाक ढकें।,,pending_human_validation,provisional_assisted,None detected
+GEN0353,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,सलाह: खाँसते या छींकते समय मुँह और नाक ढकें।,,pending_human_validation,provisional_assisted,None detected
+GEN0354,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,खाँसते या छींकते समय मुँह और नाक ढकें। यह सामान्य स्वास्थ्य जानकारी है।,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0355,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,ध्यान रखें कि खाँसते या छींकते समय मुँह और नाक ढकें।,,pending_human_validation,provisional_assisted,None detected
+GEN0356,Hindi,खाँसते या छींकते समय मुँह और नाक ढकें।,सिफारिश यह है: खाँसते या छींकते समय मुँह और नाक ढकें।,,pending_human_validation,provisional_assisted,None detected
+GEN0357,English,"Avoid touching your eyes, nose, and mouth with unwashed hands.","Avoid touching your eyes, nose, and mouth with unwashed hands.",,pending_human_validation,provisional_assisted,None detected
+GEN0358,English,"Avoid touching your eyes, nose, and mouth with unwashed hands.","Do not avoid touching your eyes, nose, and mouth with unwashed hands.",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0359,English,"Avoid touching your eyes, nose, and mouth with unwashed hands.","It is not necessary to avoid touching your eyes, nose, and mouth with unwashed hands.",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0360,English,"Avoid touching your eyes, nose, and mouth with unwashed hands.","Guidance: Avoid touching your eyes, nose, and mouth with unwashed hands.",,pending_human_validation,provisional_assisted,None detected
+GEN0361,English,"Avoid touching your eyes, nose, and mouth with unwashed hands.","Avoid touching your eyes, nose, and mouth with unwashed hands. This is general health information.",Context added,pending_human_validation,provisional_assisted,None detected
+GEN0362,English,"Avoid touching your eyes, nose, and mouth with unwashed hands.","Remember that avoid touching your eyes, nose, and mouth with unwashed hands.",,pending_human_validation,provisional_assisted,None detected
+GEN0363,English,"Avoid touching your eyes, nose, and mouth with unwashed hands.","The recommendation is to avoid touching your eyes, nose, and mouth with unwashed hands.",,pending_human_validation,provisional_assisted,None detected
+GEN0364,English,"Avoid touching your eyes, nose, and mouth with unwashed hands.","Please remember to avoid touching your eyes, nose, and mouth with unwashed hands.",,pending_human_validation,provisional_assisted,None detected
+GEN0365,Hindi,"बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।","बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।",,pending_human_validation,provisional_assisted,None detected
+GEN0366,Hindi,"बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।","यह सलाह न मानें: बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0367,Hindi,"बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।","यह आवश्यक नहीं है कि बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0368,Hindi,"बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।","कृपया याद रखें: बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।",,pending_human_validation,provisional_assisted,None detected
+GEN0369,Hindi,"बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।","सलाह: बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।",,pending_human_validation,provisional_assisted,None detected
+GEN0370,Hindi,"बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।","बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें। यह सामान्य स्वास्थ्य जानकारी है।",Context added,pending_human_validation,provisional_assisted,None detected
+GEN0371,Hindi,"बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।","ध्यान रखें कि बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।",,pending_human_validation,provisional_assisted,None detected
+GEN0372,Hindi,"बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।","सिफारिश यह है: बिना धुले हाथों से आँखों, नाक और मुँह को छूने से बचें।",,pending_human_validation,provisional_assisted,None detected
+GEN0373,English,"Stay home when you are sick, when possible.","Stay home when you are sick, when possible.",,pending_human_validation,provisional_assisted,None detected
+GEN0374,English,"Stay home when you are sick, when possible.","Do not stay home when you are sick, when possible.",Negation,pending_human_validation,provisional_assisted,Negation
+GEN0375,English,"Stay home when you are sick, when possible.","It is not necessary to stay home when you are sick, when possible.",Negation,pending_human_validation,provisional_assisted,Negation
+GEN0376,English,"Stay home when you are sick, when possible.","Guidance: Stay home when you are sick, when possible.",,pending_human_validation,provisional_assisted,None detected
+GEN0377,English,"Stay home when you are sick, when possible.","Stay home when you are sick, when possible. This is general health information.",Context added,pending_human_validation,provisional_assisted,None detected
+GEN0378,English,"Stay home when you are sick, when possible.","Remember that stay home when you are sick, when possible.",,pending_human_validation,provisional_assisted,None detected
+GEN0379,English,"Stay home when you are sick, when possible.","The recommendation is to stay home when you are sick, when possible.",,pending_human_validation,provisional_assisted,None detected
+GEN0380,English,"Stay home when you are sick, when possible.","Please remember to stay home when you are sick, when possible.",,pending_human_validation,provisional_assisted,None detected
+GEN0381,Hindi,"बीमार होने पर, जहाँ संभव हो, घर पर रहें।","बीमार होने पर, जहाँ संभव हो, घर पर रहें।",,pending_human_validation,provisional_assisted,None detected
+GEN0382,Hindi,"बीमार होने पर, जहाँ संभव हो, घर पर रहें।","यह सलाह न मानें: बीमार होने पर, जहाँ संभव हो, घर पर रहें।",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0383,Hindi,"बीमार होने पर, जहाँ संभव हो, घर पर रहें।","यह आवश्यक नहीं है कि बीमार होने पर, जहाँ संभव हो, घर पर रहें।",Negation,pending_human_validation,provisional_assisted,None detected
+GEN0384,Hindi,"बीमार होने पर, जहाँ संभव हो, घर पर रहें।","कृपया याद रखें: बीमार होने पर, जहाँ संभव हो, घर पर रहें।",,pending_human_validation,provisional_assisted,None detected
+GEN0385,Hindi,"बीमार होने पर, जहाँ संभव हो, घर पर रहें।","सलाह: बीमार होने पर, जहाँ संभव हो, घर पर रहें।",,pending_human_validation,provisional_assisted,None detected
+GEN0386,Hindi,"बीमार होने पर, जहाँ संभव हो, घर पर रहें।","बीमार होने पर, जहाँ संभव हो, घर पर रहें। यह सामान्य स्वास्थ्य जानकारी है।",Context added,pending_human_validation,provisional_assisted,None detected
+GEN0387,Hindi,"बीमार होने पर, जहाँ संभव हो, घर पर रहें।","ध्यान रखें कि बीमार होने पर, जहाँ संभव हो, घर पर रहें।",,pending_human_validation,provisional_assisted,None detected
+GEN0388,Hindi,"बीमार होने पर, जहाँ संभव हो, घर पर रहें।","सिफारिश यह है: बीमार होने पर, जहाँ संभव हो, घर पर रहें।",,pending_human_validation,provisional_assisted,None detected
+GEN0389,English,Clean your hands after coughing or sneezing.,Clean your hands after coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
+GEN0390,English,Clean your hands after coughing or sneezing.,Do not clean your hands after coughing or sneezing.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0391,English,Clean your hands after coughing or sneezing.,Clean your hands before coughing or sneezing.,Timing,pending_human_validation,provisional_assisted,None detected
+GEN0392,English,Clean your hands after coughing or sneezing.,It is not necessary to clean your hands after coughing or sneezing.,Negation,pending_human_validation,provisional_assisted,Negation
+GEN0393,English,Clean your hands after coughing or sneezing.,Guidance: Clean your hands after coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
+GEN0394,English,Clean your hands after coughing or sneezing.,Clean your hands after coughing or sneezing. This is general health information.,Context added,pending_human_validation,provisional_assisted,None detected
+GEN0395,English,Clean your hands after coughing or sneezing.,Remember that clean your hands after coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
+GEN0396,English,Clean your hands after coughing or sneezing.,The recommendation is to clean your hands after coughing or sneezing.,,pending_human_validation,provisional_assisted,None detected
