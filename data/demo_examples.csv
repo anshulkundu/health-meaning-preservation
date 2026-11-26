@@ -1,0 +1,9 @@
+pair_id,original_text,comparison_text,language,task_type,human_score,label,error_type,source,annotator_id,split_group
+DEMO001,Wash hands with soap before preparing food.,Clean your hands with soap before making food.,English,simplification,10,preserved,none,synthetic_demo,illustrative,DEMO001
+DEMO002,Do not share prescription medicines with others.,Share your prescription medicine with friends.,English,simplification,1,not_preserved,negation,synthetic_demo,illustrative,DEMO002
+DEMO003,Store medicines away from children.,Keep medicines where children cannot reach them.,English,simplification,10,preserved,none,synthetic_demo,illustrative,DEMO003
+DEMO004,दवाइयों को बच्चों की पहुँच से दूर रखें।,दवाइयों को ऐसी जगह रखें जहाँ बच्चे न पहुँच सकें।,Hindi,simplification,10,preserved,none,synthetic_demo,illustrative,DEMO004
+DEMO005,बिना डॉक्टर की सलाह के दवा की मात्रा न बढ़ाएँ।,डॉक्टर की सलाह के बिना दवा की खुराक न बढ़ाएँ।,Hindi,simplification,9,preserved,none,synthetic_demo,illustrative,DEMO005
+DEMO006,Do not take more than the prescribed amount.,Take more than the amount prescribed.,English,simplification,1,not_preserved,negation,synthetic_demo,illustrative,DEMO006
+DEMO007,If symptoms worsen, contact a healthcare professional.,Contact a healthcare professional if your symptoms get worse.,English,simplification,10,preserved,none,synthetic_demo,illustrative,DEMO007
+DEMO008,गंभीर साँस लेने में कठिनाई होने पर तुरंत चिकित्सा सहायता लें।,अगर साँस लेने में बहुत परेशानी हो तो तुरंत चिकित्सा सहायता लें।,Hindi,simplification,9,preserved,none,synthetic_demo,illustrative,DEMO008

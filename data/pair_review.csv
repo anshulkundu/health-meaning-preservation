@@ -1,0 +1,41 @@
+pair_id,language,task_type,preliminary_assessment,reason,review_status
+C001,English,simplification,likely_preserved,Core handwashing instructions appear consistent,preliminary_needs_source_and_human_review
+C002,English,simplification,meaning_changed,Comparison omits soap,preliminary_needs_source_and_human_review
+C003,English,simplification,critical_meaning_change,Comparison reverses the instruction not to share prescription medicines,preliminary_needs_source_and_human_review
+C004,English,simplification,critical_meaning_change,Comparison reverses the warning to keep medicines out of children's reach,preliminary_needs_source_and_human_review
+C005,English,simplification,likely_preserved,Core medicine-label instruction appears consistent,preliminary_needs_source_and_human_review
+C006,English,simplification,likely_preserved,Core advice about worsening symptoms appears consistent,preliminary_needs_source_and_human_review
+C007,English,simplification,critical_meaning_change,Comparison reverses the claim about antibiotics and viral infections,preliminary_needs_source_and_human_review
+C008,English,simplification,likely_preserved,Expiry date and expiration date appear equivalent in context,preliminary_needs_source_and_human_review
+C009,English,simplification,critical_meaning_change,Comparison reverses the instruction not to stop prescribed medicine without consultation,preliminary_needs_source_and_human_review
+C010,English,simplification,likely_preserved,Core medicine storage instruction appears consistent,preliminary_needs_source_and_human_review
+C011,English,simplification,likely_preserved,Both advise seeking emergency medical help for breathing difficulty,preliminary_needs_source_and_human_review
+C012,English,simplification,likely_preserved,Both describe a balanced diet containing foods from different food groups,preliminary_needs_source_and_human_review
+C013,English,simplification,likely_preserved,Both connect regular physical activity with overall health,preliminary_needs_source_and_human_review
+C014,English,simplification,likely_preserved,Both advise covering the mouth and nose when coughing or sneezing,preliminary_needs_source_and_human_review
+C015,English,simplification,likely_preserved,Both advise reducing close contact with sick people when possible,preliminary_needs_source_and_human_review
+C016,English,simplification,likely_preserved,Both recommend regular water intake especially during heat or exercise,preliminary_needs_source_and_human_review
+C017,English,simplification,likely_preserved,Both recommend professional advice when a wound appears infected,preliminary_needs_source_and_human_review
+C018,English,simplification,likely_preserved,Both advise against using medicine after its expiry date,preliminary_needs_source_and_human_review
+C019,English,simplification,likely_preserved,Both recommend reading the patient information leaflet before using a new medicine,preliminary_needs_source_and_human_review
+C020,English,simplification,likely_preserved,Both recommend medicines prescribed or recommended by a qualified professional,preliminary_needs_source_and_human_review
+C021,Hindi,simplification,likely_preserved,Both instruct washing hands with soap and clean water before preparing food,preliminary_needs_source_and_human_review
+C022,Hindi,simplification,meaning_changed,Comparison omits soap from the handwashing instruction,preliminary_needs_source_and_human_review
+C023,Hindi,simplification,critical_meaning_change,Comparison reverses the instruction not to share prescription medicines,preliminary_needs_source_and_human_review
+C024,Hindi,simplification,critical_meaning_change,Comparison reverses the warning to keep medicines out of children's reach,preliminary_needs_source_and_human_review
+C025,Hindi,simplification,likely_preserved,Both instruct following medicine label or healthcare professional directions,preliminary_needs_source_and_human_review
+C026,Hindi,simplification,likely_preserved,Both recommend professional advice for severe or worsening symptoms,preliminary_needs_source_and_human_review
+C027,Hindi,simplification,likely_preserved,Both state that antibiotics generally do not treat viral infections,preliminary_needs_source_and_human_review
+C028,Hindi,simplification,likely_preserved,Both instruct checking the medicine expiry date before use,preliminary_needs_source_and_human_review
+C029,Hindi,simplification,critical_meaning_change,Comparison reverses the instruction not to stop prescribed medicine without professional advice,preliminary_needs_source_and_human_review
+C030,Hindi,simplification,likely_preserved,Both instruct storing medicines according to packaging directions,preliminary_needs_source_and_human_review
+C031,Hindi,simplification,likely_preserved,Both appear to advise seeking emergency medical help when choking occurs,preliminary_needs_source_and_human_review
+C032,Hindi,simplification,likely_preserved,Both describe a balanced diet containing different food groups,preliminary_needs_source_and_human_review
+C033,Hindi,simplification,likely_preserved,Both describe regular physical activity as beneficial for general health,preliminary_needs_source_and_human_review
+C034,Hindi,simplification,likely_preserved,Both advise covering the mouth and nose when coughing or sneezing,preliminary_needs_source_and_human_review
+C035,Hindi,simplification,likely_preserved,Both advise keeping some distance from sick people when possible,preliminary_needs_source_and_human_review
+C036,Hindi,simplification,likely_preserved,Both recommend drinking water regularly during hot weather or exercise,preliminary_needs_source_and_human_review
+C037,Hindi,simplification,likely_preserved,Both advise seeking professional help when symptoms worsen,preliminary_needs_source_and_human_review
+C038,Hindi,simplification,critical_meaning_change,Comparison reverses the instruction about using medicine after its expiry date,preliminary_needs_source_and_human_review
+C039,Hindi,simplification,likely_preserved,Both advise reading the patient information leaflet before using a new medicine,preliminary_needs_source_and_human_review
+C040,Hindi,simplification,likely_preserved,Both advise taking medicines prescribed or recommended by a qualified professional,preliminary_needs_source_and_human_review

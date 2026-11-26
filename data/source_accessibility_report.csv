@@ -1,0 +1,11 @@
+pair_id,source_name,source_url,http_status,final_url,access_status
+C012,WHO - Healthy diet,https://www.who.int/news-room/fact-sheets/detail/healthy-diet,200,https://www.who.int/news-room/fact-sheets/detail/healthy-diet,HTTP_OK
+C013,WHO - Physical activity,https://www.who.int/news-room/fact-sheets/detail/physical-activity,200,https://www.who.int/news-room/fact-sheets/detail/physical-activity,HTTP_OK
+C014,CDC - Respiratory viruses prevention,https://www.cdc.gov/respiratory-viruses/prevention/index.html,403,https://www.cdc.gov/respiratory-viruses/prevention/index.html,HTTP_ERROR
+C006,MedlinePlus - Breathing difficulties,https://medlineplus.gov/ency/article/003075.htm,200,https://medlineplus.gov/ency/article/003075.htm,HTTP_OK
+C001,WHO - Washing hands,https://www.who.int/tools/your-life-your-health/other-health-topics/health-and-the-environment/washing-hands,200,https://www.who.int/tools/your-life-your-health/other-health-topics/health-and-the-environment/washing-hands,HTTP_OK
+C003,WHO - Patient tips,https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/clean-hands-2014/patient-tips.pdf?sfvrsn=2710ca60_3,200,https://cdn.who.int/media/docs/default-source/integrated-health-services-%28ihs%29/clean-hands-2014/patient-tips.pdf?sfvrsn=2710ca60_3,HTTP_OK
+C016,MedlinePlus - Dehydration,https://medlineplus.gov/dehydration.html,200,https://medlineplus.gov/dehydration.html,HTTP_OK
+C037,MedlinePlus - Cuts and wounds,https://medlineplus.gov/ency/article/000043.htm,200,https://medlineplus.gov/ency/article/000043.htm,HTTP_OK
+C004,NHS - Medicines for babies and children,https://www.nhs.uk/baby/health/medicines-for-babies-and-children/,200,https://www.nhs.uk/baby/health/medicines-for-babies-and-children/,HTTP_OK
+C017,NHS - Cuts and grazes,https://www.nhs.uk/conditions/cuts-and-grazes/,200,https://www.nhs.uk/conditions/cuts-and-grazes/,HTTP_OK

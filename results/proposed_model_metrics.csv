@@ -1,0 +1,2 @@
+model,n,pearson_vs_pseudo,spearman_vs_pseudo,mae_vs_pseudo,rmse_vs_pseudo,reference_labels
+XLM-RoBERTa Regression,110,0.016659855842590332,-0.02671691232548545,2.3520758152008057,3.165590421256187,automatic_pseudo_labels_not_human_verified

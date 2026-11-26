@@ -1,0 +1,33 @@
+HEALTH MEANING PRESERVATION — DATASET QUALITY REPORT
+==========================================================
+Total rows: 500
+Unique pair IDs: 500
+
+LANGUAGE DISTRIBUTION
+language
+English    254
+Hindi      246
+
+DATA COMPLETENESS
+original_text: 500/500 filled
+comparison_text: 500/500 filled
+source_name: 500/500 filled
+source_url: 500/500 filled
+review_status: 500/500 filled
+
+DUPLICATE CHECKS
+Duplicate sentence pairs: 0
+Duplicate pair IDs: 0
+
+REVIEW STATUS
+review_status
+pending    500
+
+Rows with numeric meaning scores: 0
+
+IMPORTANT LIMITATIONS
+- Candidate pairs are not automatically validated research labels.
+- Source URLs require checking against each individual claim.
+- Hindi text requires fluent-speaker review.
+- Human meaning scores must come from genuine annotation.
+- Do not train or evaluate supervised models on invented labels.

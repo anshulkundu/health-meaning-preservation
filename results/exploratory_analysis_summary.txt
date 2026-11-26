@@ -1,0 +1,9 @@
+EXPLORATORY SIMILARITY ANALYSIS
+Total pairs: 500
+Average TF-IDF similarity: 0.7365
+Minimum similarity: 0.0000
+Maximum similarity: 1.0000
+
+IMPORTANT: Pseudo-labels are automatically generated.
+They are not human-verified research labels.
+Similarity scores are exploratory, not model accuracy.

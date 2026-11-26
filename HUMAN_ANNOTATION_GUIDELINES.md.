@@ -1,0 +1,39 @@
+# Human Annotation Guidelines
+
+## Objective
+Evaluate whether a comparison sentence preserves the meaning of the original health-information sentence.
+
+## Score: 1–10
+- 1–2: Opposite meaning or critical medical error.
+- 3–4: Major meaning change.
+- 5–6: Partial preservation with important information changed.
+- 7–8: Mostly preserved with a minor difference.
+- 9–10: Meaning fully or almost fully preserved.
+
+## Critical Errors
+Mark critical_error as yes when the comparison reverses or materially changes a health instruction, warning, negation, dosage, or other safety-critical information.
+
+## Error Types
+Use one of:
+- negation
+- dosage
+- warning
+- omission
+- addition
+- other
+- none
+
+## Review Procedure
+1. Read the original sentence.
+2. Read the comparison sentence.
+3. Compare the meaning, not just the wording.
+4. Check whether any warning, negation, condition, or important detail changed.
+5. Assign a score and explain the decision.
+6. Record uncertain cases for discussion.
+
+## Research Integrity
+- Do not invent human scores.
+- Do not use automatic similarity scores as human annotations.
+- Have Hindi sentences reviewed by someone proficient in Hindi.
+- Use independent reviewers where possible.
+- Resolve disagreements using a documented process.
