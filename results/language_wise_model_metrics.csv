@@ -1,0 +1,7 @@
+language,model,n,pearson,spearman,mae,rmse
+English,TF-IDF,87,0.3061,0.3586,3.3412,4.4572
+English,Sentence Transformer,87,0.7554,0.798,3.7208,4.5723
+Hindi,TF-IDF,23,0.9419,0.9517,1.9533,2.1877
+Hindi,Sentence Transformer,23,0.5611,0.463,2.999,3.4724
+English,XLM-RoBERTa,87,-0.0544,-0.0854,2.5054,3.3569
+Hindi,XLM-RoBERTa,23,0.3034,0.2115,1.772,2.3022
